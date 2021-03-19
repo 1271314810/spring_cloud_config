@@ -1,1 +1,1 @@
-# spring_cloud_config
+测试 springcloud config远程获取配置之git
